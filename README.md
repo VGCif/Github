@@ -5,7 +5,7 @@
 ### 0_Tutorial para principiantes:
 
 0. Para escribir en archivos de texto con formato .md, se usan las reglas que puedes ver aquí:  
-[Tutorial de Markdown](http://https://joedicastro.com/pages/markdown.html "Tutorial MarkDown")
+[Tutorial de Markdown](https://joedicastro.com/pages/markdown.html "Tutorial MarkDown")
 
 1. Las más importantes son:
 	1. \# Esto es un H1
