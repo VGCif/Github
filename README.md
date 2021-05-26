@@ -31,7 +31,7 @@
   
 4. Para clonar el repositorio dentro de la carpeta de tu pc donde poder usarlo:  
 `git clone <url>`
-> Nota: puedes conseguir la url del repositorio pulsando el botón a la derecha superior(dentro del repositorio), y dandole al botón de copiar
+> Nota: puedes conseguir la url del repositorio pulsando el botón a la derecha superior(dentro del repositorio), y dandole al botón de copiar por https
 
 5. Para abrir el editor de texto elegido, con todos los repositorios:  
 `c:/Workspace/dTailorg/atom .`
